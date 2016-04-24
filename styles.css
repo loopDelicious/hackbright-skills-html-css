@@ -1,0 +1,22 @@
+h1 {
+    font-family: arial;
+}
+
+p {
+    font-family: arial;
+}
+
+div {
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.input-box {
+    background-color: #02F079;
+}
+
+.button {
+    background-color: #F0F002;
+}
